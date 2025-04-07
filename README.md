@@ -22,11 +22,11 @@
 
 ---
 ### Портфолио
-- [Checklists]()
-- [Test-Suites and Test-Cases]()
-- [Bug-Reports]()
-- [SQL Queries]()
-- [Postman Collection]()
+- [Checklists](https://github.com/NightRavager/Checklists.git)
+- [Test-Suites and Test-Cases](https://github.com/NightRavager/Test-Suites-and-Test-Cases)
+- [Bug-Reports](https://github.com/NightRavager/Bug-Reports)
+- [SQL Queries](https://github.com/NightRavager/SQL-Queries)
+- [Postman Collection](https://github.com/NightRavager/Postman-Collection)
 
 ---
 ### Тестовая документация:
