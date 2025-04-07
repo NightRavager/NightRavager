@@ -8,8 +8,9 @@
 
 Я начинающий тестировщик. Прошел несколько курсов по тестированию(RoadMapQA, Stepik), имеется опыт в написании тестовой документации.
 
-
-
+---
+### Мое резюме:
+- [Link to my CV]()
 ---
 ### Социальные сети:
 
@@ -20,19 +21,14 @@
   </div>
 
 ---
-
-## Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [#8 Postman для тестировщика 2.0 / Типы авторизации и CURL](https://www.youtube.com/watch?v=X8LxhBdBe9w)
-- [#7 Postman для тестировщика 2.0 / Тестирование SOAP](https://www.youtube.com/watch?v=EUkaU-aeC4E)
-- [#6 Postman для тестировщика 2.0 / Перехват трафика HTTP и HTTPs](https://www.youtube.com/watch?v=Dl5Tr6P2PMA)
-- [#5 Postman для тестировщика 2.0 / Тестовые данные в CSV и JSON](https://www.youtube.com/watch?v=A-9ZZVPIB_g)
-- [#4 Postman для тестировщика 2.0/  Простые автотесты](https://www.youtube.com/watch?v=r4Kz5klPbvs)
-<!-- YOUTUBE:END -->
+### Портфолио
+- [Checklists]()
+- [Test-Suites and Test-Cases]()
+- [Bug-Reports]()
+- [SQL Queries]()
+- [Postman Collection]()
 
 ---
-
 ### Тестовая документация:
 
 <div>
